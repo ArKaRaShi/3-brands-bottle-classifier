@@ -1,0 +1,6 @@
+.venv/
+.venv/*
+
+dataset/
+augmented/
+preview_augmented/
